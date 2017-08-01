@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/teemueskola/nodetesti/issues"
   },
-  "homepage": "https://github.com/teemueskola/nodetesti#readme"
+  "homepage": "https://github.com/teemueskola/nodetesti#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
