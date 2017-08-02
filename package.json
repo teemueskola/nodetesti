@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/teemueskola/nodetesti#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "emptygif": "^0.1.1",
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
   },
   "devDependencies": {
     "pm2": "^2.6.1"
